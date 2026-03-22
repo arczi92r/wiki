@@ -4,6 +4,7 @@ Claude links to learn:
 
 
 Certyfikat :
+https://github.com/paullarionov/claude-certified-architect/blob/main/guide_en.MD
 https://www.reddit.com/r/ClaudeAI/comments/1ruf70b/just_passed_the_new_claude_certified_architect/
 
 https://drive.google.com/file/d/1luC0rnrET4tDYtS7xe5jUxMDZA-4qNf-/view
